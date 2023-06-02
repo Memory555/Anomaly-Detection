@@ -114,26 +114,26 @@ LOF算法明显对参数的设定更为敏感，其他算法无法通过实验�
 
 # 参考博客
 
-[1] https://www.zhihu.com/question/280696035/answer/417091151.数据挖掘中常见的「异常检测」算法有哪些？
+[1] https://www.zhihu.com/question/280696035/answer/417091151. 数据挖掘中常见的「异常检测」算法有哪些？
 
-[2] https://blog.csdn.net/weixin\_39822493/article/details/111586403.异常数据4种剔除方法\_4种常见异常值检测算法实现
+[2] https://blog.csdn.net/weixin\_39822493/article/details/111586403. 异常数据4种剔除方法\_4种常见异常值检测算法实现
 
-[3] https://blog.csdn.net/qq\_30031221/article/details/116494511.异常检测方法——DBSCAN、孤立森林、OneClassSVM、LOF、同比环比、正态分布、箱线图
+[3] https://blog.csdn.net/qq\_30031221/article/details/116494511. 异常检测方法——DBSCAN、孤立森林、OneClassSVM、LOF、同比环比、正态分布、箱线图
 
-[4]https://blog.csdn.net/ewen\_lee/article/details/109892412.孤立森林（Isolation Forest）从原理到实践
+[4]https://blog.csdn.net/ewen\_lee/article/details/109892412. 孤立森林（Isolation Forest）从原理到实践
 
-[5]https://blog.csdn.net/qq\_52785473/article/details/124293826.异常检测之孤立森林算法详细解释且配上代码运行实例
+[5]https://blog.csdn.net/qq\_52785473/article/details/124293826. 异常检测之孤立森林算法详细解释且配上代码运行实例
 
-[6] https://zhuanlan.zhihu.com/p/484495545.孤立森林(isolation Forest)-一个通过瞎几把乱分进行异常检测的算法
+[6] https://zhuanlan.zhihu.com/p/484495545. 孤立森林(isolation Forest)-一个通过瞎几把乱分进行异常检测的算法
 
-[7] https://blog.csdn.net/sgzqc/article/details/122147329.使用DBSCAN找出数据集中的异常值
+[7] https://blog.csdn.net/sgzqc/article/details/122147329. 使用DBSCAN找出数据集中的异常值
 
-[8] https://zhuanlan.zhihu.com/p/515268801.聚类算法也可以异常检测？DBSCAN算法详解
+[8] https://zhuanlan.zhihu.com/p/515268801. 聚类算法也可以异常检测？DBSCAN算法详解
 
-[9] https://blog.csdn.net/Pysamlam/article/details/124013896.异常检测算法之(LOF)-Local Outlier Factor
+[9] https://blog.csdn.net/Pysamlam/article/details/124013896. 异常检测算法之(LOF)-Local Outlier Factor
 
-[10] https://www.csdn.net/tags/MtTaMg1sMDc3MjkwLWJsb2cO0O0O.html.异常检测之LOF
+[10] https://www.csdn.net/tags/MtTaMg1sMDc3MjkwLWJsb2cO0O0O.html. 异常检测之LOF
 
-[11] https://blog.csdn.net/juanjuanyou/article/details/121715138.异常检测第二篇：一分类SVM（OneClassSVM）
+[11] https://blog.csdn.net/juanjuanyou/article/details/121715138. 异常检测第二篇：一分类SVM（OneClassSVM）
 
-[12] https://blog.51cto.com/u\_15127629/3319901.Python机器学习笔记：异常点检测算法——One Class SVM
+[12] https://blog.51cto.com/u\_15127629/3319901. Python机器学习笔记：异常点检测算法——One Class SVM
